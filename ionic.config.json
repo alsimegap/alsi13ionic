@@ -1,0 +1,7 @@
+{
+  "name": "alsi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
